@@ -1,8 +1,8 @@
 "use client";
 import Image from "next/image";
-import CarParking from "@/public/img/icon/car-parking.png";
-import Locaion1 from "@/public/img/icon/location-1.png";
-import SwimmingPool from "@/public/img/icon/swimming-pool.png";
+// import CarParking from "@/public/img/icon/car-parking.png";
+// import Locaion1 from "@/public/img/icon/location-1.png";
+// import SwimmingPool from "@/public/img/icon/swimming-pool.png";
 
 const Servicestwo = () => {
   return (
@@ -28,7 +28,7 @@ const Servicestwo = () => {
               <div className="services__two-item">
                 <span>02</span>
                 <div className="services__two-item-icon">
-                  <Image alt="" layout="responsive" src={CarParking} />
+                  <Image alt="" layout="responsive" src='../../public/img/icon/car-parking.png' />
                 </div>
                 <div className="services__two-item-content">
                   <h4>Car Parking</h4>
@@ -42,7 +42,7 @@ const Servicestwo = () => {
               <div className="services__two-item">
                 <span>03</span>
                 <div className="services__two-item-icon">
-                  <Image alt="" layout="responsive" src={SwimmingPool} />
+                  <Image alt="" layout="responsive" src='../../public/img/icon/swimming-pool.png' />
                 </div>
                 <div className="services__two-item-content">
                   <h4>Swimming pool</h4>
@@ -56,7 +56,7 @@ const Servicestwo = () => {
               <div className="services__two-item">
                 <span>04</span>
                 <div className="services__two-item-icon">
-                  <Image alt="" layout="responsive" src={Locaion1} />
+                  <Image alt="" layout="responsive" src='../../public/img/icon/location-1.png' />
                 </div>
                 <div className="services__two-item-content">
                   <h4>PickUp & Drop</h4>
