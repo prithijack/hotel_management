@@ -109,7 +109,7 @@ const roomStyleAllBlogs = [
   {
     title: "Double Room",
     des: "Spacious comfort for two in elegantly appointed accommodations.",
-    img: "../../public/hotel-6.jpg",
+    img: "/hotel-6.jpg",
     image: "/hotel-11.jpg",
     price: 219,
     bed: 3,
@@ -119,7 +119,7 @@ const roomStyleAllBlogs = [
   {
     title: "Small Suite",
     des: "Cozy, budget-friendly option without compromising on comfort or convenience.",
-    img: "../../public/hotel-7.jpg",
+    img: "/hotel-7.jpg",
     image: "/hotel-11.jpg",
     cl: "center",
     price: 199,
@@ -130,7 +130,7 @@ const roomStyleAllBlogs = [
   {
     title: "Luxury room",
     des: "Opulent accommodations featuring premium amenities and exquisite design elements.",
-    img: "../../public/hotel-8.jpg",
+    img: "/hotel-8.jpg",
     image: "/hotel-12.jpg",
     price: 302,
     bed: 3,
@@ -140,7 +140,7 @@ const roomStyleAllBlogs = [
   {
     title: "Junior Suite",
     des: "Stylish retreat with expansive living space and upscale amenities included.",
-    img: "../../public/hotel-9.jpg",
+    img: "/hotel-9.jpg",
     image: "/hotel-13.jpg",
     price: 213,
     bed: 4,
@@ -150,7 +150,7 @@ const roomStyleAllBlogs = [
   {
     title: "Superior Room",
     des: "Blend of style and sophistication for a relaxing stay experience.",
-    img: "../../public/hotel-10.jpg",
+    img: "/hotel-10.jpg",
     image: "/hotel-14.jpg",
     price: 420,
     bed: 3,
@@ -160,7 +160,7 @@ const roomStyleAllBlogs = [
   {
     title: "Single Room",
     des: "Private, tranquil space designed for solo travelers seeking comfort.",
-    img: "../../public/hotel-11.jpg",
+    img: "/hotel-11.jpg",
     image: "/hotel-15.jpg",
     price: 350,
     bed: 1,
@@ -170,7 +170,7 @@ const roomStyleAllBlogs = [
   {
     title: "Deluxe Room",
     des: "Luxurious accommodations with refined furnishings and upscale amenities provided.",
-    img: "../../public/hotel-12.jpg",
+    img: "/hotel-12.jpg",
     image: "/hotel-16.jpg",
     price: 270,
     bed: 2,
@@ -180,7 +180,7 @@ const roomStyleAllBlogs = [
   {
     title: "Standard Room",
     des: "Well-appointed accommodations offering essential amenities for a pleasant stay.",
-    img: "../../public/hotel-13.jpg",
+    img: "/hotel-13.jpg",
     image: "/hotel-17.jpg",
     price: 280,
     bed: 3,
@@ -190,7 +190,7 @@ const roomStyleAllBlogs = [
   {
     title: "Family Room",
     des: "Spacious accommodations designed for creating unforgettable family memories together.",
-    img: "../../public/hotel-14.jpg",
+    img: "/hotel-14.jpg",
     image: "/hotel-18.jpg",
     price: 225,
     bed: 2,
