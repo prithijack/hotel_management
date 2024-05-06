@@ -14,7 +14,7 @@ const Servicestwo = () => {
               <div className="services__two-item">
                 <span>01</span>
                 <div className="services__two-item-icon">
-                  <Image alt="" layout="responsive" src={Locaion1} />
+                  <Image alt="" layout="responsive" src="../../public/img/icon/location-1.png" />
                 </div>
                 <div className="services__two-item-content">
                   <h4>Room Cleaning</h4>
