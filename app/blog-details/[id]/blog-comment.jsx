@@ -38,7 +38,7 @@ const Blogcomment = ({ blogsData }) => {
         </p>
         <div className="blog__details-left-box">
           <div className="blog__details-left-box-icon">
-            <img src="/img/icon/quote.png" alt="" />
+            <img src="/quote.png" alt="" />
           </div>
           <p>
             Aenean imperdiet finibus sodales. Sed non ex nisl. Maecenas ut
@@ -81,7 +81,7 @@ const Blogcomment = ({ blogsData }) => {
           <div className="blog__details-left-comment-item">
             <div className="blog__details-left-comment-item-comment">
               <div className="blog__details-left-comment-item-comment-image">
-                <img src="/img/avatar/comment-1.jpg" alt="" /> /
+                <img src="/comment-1.jpg" alt="" /> /
               </div>
               <div className="blog__details-left-comment-item-comment-content">
                 <h5>
@@ -102,7 +102,7 @@ const Blogcomment = ({ blogsData }) => {
           <div className="blog__details-left-comment-item ml-65 sm-ml-0">
             <div className="blog__details-left-comment-item-comment">
               <div className="blog__details-left-comment-item-comment-image">
-                <img src="/img/avatar/comment-2.jpg" alt="" />
+                <img src="/comment-2.jpg" alt="" />
               </div>
               <div className="blog__details-left-comment-item-comment-content">
                 <h5>

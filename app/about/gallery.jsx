@@ -2,10 +2,10 @@
 
 const galleryData = {
   galleryImage: [
-    { image: "/img/features/gallery-1.jpg" },
-    { image: "/img/features/gallery-2.jpg" },
-    { image: "/img/features/gallery-3.jpg" },
-    { image: "/img/features/gallery-4.jpg" },
+    { image: "/gallery-1.jpg" },
+    { image: "/gallery-2.jpg" },
+    { image: "/gallery-3.jpg" },
+    { image: "/gallery-4.jpg" },
   ],
 };
 

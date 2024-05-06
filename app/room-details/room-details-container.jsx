@@ -38,14 +38,14 @@ const Roomdetailscontainer = () => {
                     <div className="col-sm-6 sm-mb-30">
                       <img
                         className="img__full"
-                        src="/img/hotel/hotel-24.jpg"
+                        src="/hotel-24.jpg"
                         alt=""
                       />
                     </div>
                     <div className="col-sm-6">
                       <img
                         className="img__full"
-                        src="/img/hotel/hotel-25.jpg"
+                        src="/hotel-25.jpg"
                         alt=""
                       />
                     </div>
@@ -68,7 +68,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6 mb-35">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-1.png" alt="" />
+                          <img src="/list-1.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Room Cleaning</h6>
@@ -78,7 +78,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6 sm-mb-35">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-2.png" alt="" />
+                          <img src="/list-2.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Car Parking</h6>
@@ -88,7 +88,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6 sm-mb-35">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-3.png" alt="" />
+                          <img src="/list-3.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Swimming pool</h6>
@@ -98,7 +98,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6 mb-35">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-4.png" alt="" />
+                          <img src="/list-4.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Pick Up & Drop</h6>
@@ -108,7 +108,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6 md-mb-35">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-5.png" alt="" />
+                          <img src="/list-5.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Spa Center</h6>
@@ -118,7 +118,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6 sm-mb-35">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-6.png" alt="" />
+                          <img src="/list-6.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Smart Key</h6>
@@ -128,7 +128,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6 md-mb-35">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-7.png" alt="" />
+                          <img src="/list-7.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Home Wifi</h6>
@@ -138,7 +138,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6 sm-mb-35">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-8.png" alt="" />
+                          <img src="/list-8.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Beakfast</h6>
@@ -148,7 +148,7 @@ const Roomdetailscontainer = () => {
                     <div className="col-md-4 col-sm-6">
                       <div className="room__details-right-list-item">
                         <div className="room__details-right-list-item-icon">
-                          <img src="/img/icon/list-9.png" alt="" />
+                          <img src="/list-9.png" alt="" />
                         </div>
                         <div className="room__details-right-list-item-title">
                           <h6>Fitness Gym</h6>

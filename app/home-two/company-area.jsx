@@ -15,7 +15,7 @@ const Companyarea = () => {
           </div>
           <div className="col-xxl-5 col-xl-4 col-lg-4 col-md-7 col-sm-8 lg-mb-30">
             <div className="company__area-image">
-              <img src="/img/hotel/hotel-9.jpg" alt="" />
+              <img src="/hotel-9.jpg" alt="" />
             </div>
           </div>
           <div className="col-xxl-5 col-xl-6 col-lg-6">

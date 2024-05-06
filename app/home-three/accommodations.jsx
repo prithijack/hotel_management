@@ -7,7 +7,7 @@ const Accommodations = () => {
         <div className="row">
           <div className="col-xl-3 col-lg-3 col-md-5 order-last order-lg-first">
             <div className="accommodations__two-left">
-              <img src="/img/hotel/hotel-3.jpg" alt="" />
+              <img src="/hotel-3.jpg" alt="" />
               <div className="accommodations__two-left-roll">
                 <img
                   className="content__roll"
@@ -34,10 +34,10 @@ const Accommodations = () => {
           </div>
           <div className="col-xl-4 col-lg-4 col-md-7 md-mb-30">
             <div className="accommodations__two-right">
-              <img src="/img/hotel/hotel-4.jpg" alt="" />
+              <img src="/hotel-4.jpg" alt="" />
               <div className="accommodations__two-right-bottom">
                 <div className="accommodations__two-right-bottom-signature">
-                  <img src="/img/bg/signature.png" alt="" />
+                  <img src="/signature.png" alt="" />
                 </div>
                 <div className="accommodations__two-right-bottom-author">
                   <h5>David Beckham</h5>

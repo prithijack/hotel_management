@@ -10,13 +10,13 @@ const NotFound = () => {
         <>
             <SEO pageTitle='Not Found' />
                 <HeaderOne />
-                <BreadCrumb title="Not Found" innerTitle="404 Page" bgImage="/img/banner/page-banner-1.jpg" />
+                <BreadCrumb title="Not Found" innerTitle="404 Page" bgImage="/page-banner-1.jpg" />
                 <div className="section-padding">
                     <div className="container">
                         <div className="row">
                             <div className="col-xl-12">
                                 <div className="error-page t-center">
-                                    <img src="/404.svg" alt="error" />
+                                    <img src="/404.png" alt="error" />
                                     <div>
                                         <Link class="theme-btn mt-50" href="/">Back to Home</Link>
                                     </div>

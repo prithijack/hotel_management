@@ -3,18 +3,18 @@ import { Autoplay } from "swiper/modules";
 
 const brandData = {
   brandImage: [
-    { image: "/img/icon/1.png" },
-    { image: "/img/icon/2.png" },
-    { image: "/img/icon/3.png" },
-    { image: "/img/icon/4.png" },
-    { image: "/img/icon/5.png" },
-    { image: "/img/icon/6.png" },
-    { image: "/img/icon/1.png" },
-    { image: "/img/icon/2.png" },
-    { image: "/img/icon/3.png" },
-    { image: "/img/icon/4.png" },
-    { image: "/img/icon/5.png" },
-    { image: "/img/icon/6.png" },
+    { image: "/1.png" },
+    { image: "/2.png" },
+    { image: "/3.png" },
+    { image: "/4.png" },
+    { image: "/5.png" },
+    { image: "/6.png" },
+    { image: "/1.png" },
+    { image: "/2.png" },
+    { image: "/3.png" },
+    { image: "/4.png" },
+    { image: "/5.png" },
+    { image: "/6.png" },
   ],
 };
 

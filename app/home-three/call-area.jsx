@@ -4,7 +4,7 @@ const Callarea = () => {
       <div className="container">
         <div
           className="row align-items-center call__area-bg"
-          style={{backgroundImage: `url('/img/bg/call.jpg')`}}
+          style={{backgroundImage: `url('/call.jpg')`}}
         >
           <div className="col-xl-8">
             <div className="call__area-bg-left">

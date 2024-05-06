@@ -7,7 +7,7 @@ const Services = () => {
             <div className="services__two-item">
               <span>01</span>
               <div className="services__two-item-icon">
-                <img src="/img/icon/cleaning-1.png" alt="" />
+                <img src="/cleaning-1.png" alt="" />
               </div>
               <div className="services__two-item-content">
                 <h4>Room Cleaning</h4>
@@ -22,7 +22,7 @@ const Services = () => {
             <div className="services__two-item">
               <span>02</span>
               <div className="services__two-item-icon">
-                <img src="/img/icon/car-parking.png" alt="" />
+                <img src="/car-parking.png" alt="" />
               </div>
               <div className="services__two-item-content">
                 <h4>Car Parking</h4>
@@ -37,7 +37,7 @@ const Services = () => {
             <div className="services__two-item">
               <span>03</span>
               <div className="services__two-item-icon">
-                <img src="/img/icon/swimming-pool.png" alt="" />
+                <img src="/swimming-pool.png" alt="" />
               </div>
               <div className="services__two-item-content">
                 <h4>Swimming pool</h4>
@@ -52,7 +52,7 @@ const Services = () => {
             <div className="services__two-item">
               <span>04</span>
               <div className="services__two-item-icon">
-                <img src="/img/icon/location-1.png" alt="" />
+                <img src="/location-1.png" alt="" />
               </div>
               <div className="services__two-item-content">
                 <h4>PickUp & Drop</h4>

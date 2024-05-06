@@ -29,7 +29,7 @@ const roomFilter = {
   projects: [
     {
       id: 1,
-      image: "/img/luxury/luxury-1.jpg",
+      image: "/luxury-1.jpg",
       title: "Small Suite",
       price: "134",
       class_s: "col-xl-3 col-lg-4 mt-30",
@@ -37,7 +37,7 @@ const roomFilter = {
     },
     {
       id: 2,
-      image: "/img/luxury/luxury-2.jpg",
+      image: "/luxury-2.jpg",
       title: "Deluxe Room",
       price: "199",
       class_s: "col-xl-6 col-lg-8 mt-30",
@@ -45,7 +45,7 @@ const roomFilter = {
     },
     {
       id: 3,
-      image: "/img/luxury/luxury-3.jpg",
+      image: "/luxury-3.jpg",
       title: "Family Room",
       price: "319",
       class_s: "col-xl-3 col-lg-4 mt-30",
@@ -53,7 +53,7 @@ const roomFilter = {
     },
     {
       id: 4,
-      image: "/img/luxury/luxury-4.jpg",
+      image: "/luxury-4.jpg",
       title: "Single Room",
       price: "169",
       class_s: "col-xl-6 col-lg-8 mt-30",
@@ -61,7 +61,7 @@ const roomFilter = {
     },
     {
       id: 5,
-      image: "/img/luxury/luxury-5.jpg",
+      image: "/luxury-5.jpg",
       title: "Luxury Room",
       price: "249",
       class_s: "col-xl-6 mt-30",

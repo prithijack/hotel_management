@@ -2,7 +2,7 @@ const Booking = () => {
   return (
     <div
       className="booking__two section-padding"
-      style={{backgroundImage: `url('/img/bg/booking-bg.jpg')`}}
+      style={{backgroundImage: `url('/booking-bg.jpg')`}}
     >
       <div className="container">
         <div className="row mb-60">
@@ -74,14 +74,14 @@ const Booking = () => {
           </div>
           <div className="col-xl-4 order-last order-lg-second">
             <div className="room__area-image">
-              <img src="/img/hotel/hotel-5.jpg" alt="" />
+              <img src="/hotel-5.jpg" alt="" />
             </div>
           </div>
           <div className="col-xl-4 col-lg-6 xl-mb-30">
             <div className="room__area-list">
               <div className="room__area-list-item">
                 <div className="room__area-list-item-icon">
-                  <img src="/img/icon/key.png" alt="" />
+                  <img src="/key.png" alt="" />
                 </div>
                 <div className="room__area-list-item-content">
                   <h5>Smart Key</h5>
@@ -93,7 +93,7 @@ const Booking = () => {
               </div>
               <div className="room__area-list-item">
                 <div className="room__area-list-item-icon">
-                  <img src="/img/icon/breakfast.png" alt="" />
+                  <img src="/breakfast.png" alt="" />
                 </div>
                 <div className="room__area-list-item-content">
                   <h5>Breakfast</h5>
@@ -105,7 +105,7 @@ const Booking = () => {
               </div>
               <div className="room__area-list-item">
                 <div className="room__area-list-item-icon">
-                  <img src="/img/icon/wifi-1.png" alt="" />
+                  <img src="/wifi-1.png" alt="" />
                 </div>
                 <div className="room__area-list-item-content">
                   <h5>Home Wifi</h5>

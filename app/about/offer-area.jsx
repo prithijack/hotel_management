@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-// import Offers from "@/public/img/features/offers.jpg";
+// import Offers from "@/public/offers.jpg";
 
 const Offerarea = () => {
   return (
@@ -21,7 +21,7 @@ const Offerarea = () => {
           <div className="row">
             <div className="col-xl-12">
               <div className="offers__area-image">
-                <Image alt="" layout="responsive" src='/img/features/offers.jpg'/>
+                <Image alt="" layout="responsive" src='/offers.jpg'/>
                 {/* <Image alt="" layout="responsive" src={Offers} /> */}
               </div>
             </div>

@@ -1,12 +1,12 @@
 import Link from "next/link";
 
 const instagram = [
-    { class: "col-lg-2 col-sm-4 pl-5 pr-5 lg-mb-10", image: "/img/features/instagram-1.jpg", },
-    { class: "col-lg-2 col-sm-4 pl-5 pr-5 sm-mb-10", image: "/img/features/instagram-2.jpg", },
-    { class: "col-lg-2 col-sm-4 pl-5 pr-5 sm-mb-10", image: "/img/features/instagram-3.jpg", },
-    { class: "col-lg-2 col-sm-4 pl-5 pr-5 sm-mb-10", image: "/img/features/instagram-4.jpg", },
-    { class: "col-lg-2 col-sm-4 pl-5 pr-5 sm-mb-10", image: "/img/features/instagram-5.jpg", },
-    { class: "col-lg-2 col-sm-4 pl-5 pr-5", image: "/img/features/instagram-6.jpg", },
+    { class: "col-lg-2 col-sm-4 pl-5 pr-5 lg-mb-10", image: "/instagram-1.jpg", },
+    { class: "col-lg-2 col-sm-4 pl-5 pr-5 sm-mb-10", image: "/instagram-2.jpg", },
+    { class: "col-lg-2 col-sm-4 pl-5 pr-5 sm-mb-10", image: "/instagram-3.jpg", },
+    { class: "col-lg-2 col-sm-4 pl-5 pr-5 sm-mb-10", image: "/instagram-4.jpg", },
+    { class: "col-lg-2 col-sm-4 pl-5 pr-5 sm-mb-10", image: "/instagram-5.jpg", },
+    { class: "col-lg-2 col-sm-4 pl-5 pr-5", image: "/instagram-6.jpg", },
 ];
 
 const Instagram = () => {

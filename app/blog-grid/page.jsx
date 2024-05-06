@@ -10,7 +10,7 @@ const Bloggrid = () => {
     <>
       <SEO pageTitle='Blog Grid' />
         <HeaderOne />
-        <BreadCrumb title='Blog Grid' innerTitle='Blog Grid' bgImage='/img/banner/page-banner-3.jpg' />
+        <BreadCrumb title='Blog Grid' innerTitle='Blog Grid' bgImage='/page-banner-3.jpg' />
         <Bloggridcontainer />
         <Footer />
         <ScrollToTopButton />

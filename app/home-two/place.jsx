@@ -9,13 +9,13 @@ const Place = () => {
             <div className="place__two-left">
               <div className="place__two-left-image">
                 <div className="place__two-left-image-item">
-                  <img src="/img/hotel/hotel-6.jpg" alt="" />
+                  <img src="/hotel-6.jpg" alt="" />
                 </div>
                 <div className="place__two-left-image-item mt-60">
-                  <img src="/img/hotel/hotel-7.jpg" alt="" />
+                  <img src="/hotel-7.jpg" alt="" />
                 </div>
                 <div className="place__two-left-image-item">
-                  <img src="/img/hotel/hotel-8.jpg" alt="" />
+                  <img src="/hotel-8.jpg" alt="" />
                 </div>
               </div>
             </div>

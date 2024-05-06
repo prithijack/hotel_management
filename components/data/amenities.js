@@ -1,12 +1,12 @@
-import list1 from "@/public/img/icon/list-1.png";
-import list2 from "@/public/img/icon/list-2.png";
-import list3 from "@/public/img/icon/list-3.png";
-import list4 from "@/public/img/icon/list-4.png";
-import list5 from "@/public/img/icon/list-5.png";
-import list6 from "@/public/img/icon/list-6.png";
-import list7 from "@/public/img/icon/list-7.png";
-import list8 from "@/public/img/icon/list-8.png";
-import list9 from "@/public/img/icon/list-9.png";
+import list1 from "@/public/list-1.png";
+import list2 from "@/public/list-2.png";
+import list3 from "@/public/list-3.png";
+import list4 from "@/public/list-4.png";
+import list5 from "@/public/list-5.png";
+import list6 from "@/public/list-6.png";
+import list7 from "@/public/list-7.png";
+import list8 from "@/public/list-8.png";
+import list9 from "@/public/list-9.png";
 
 const amenities = [
   {

@@ -10,7 +10,7 @@ const Team = () => {
     <>
       <SEO pageTitle="Team" />
         <HeaderOne />
-        <BreadCrumb title='Services Team' innerTitle='Services Team' bgImage='/img/banner/page-banner-10.jpg'  />
+        <BreadCrumb title='Services Team' innerTitle='Services Team' bgImage='/page-banner-10.jpg'  />
         <Servicesteam />
         <Footer />
         <ScrollToTopButton />

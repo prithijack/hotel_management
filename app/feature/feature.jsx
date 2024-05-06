@@ -11,7 +11,7 @@ export default function Feature() {
             <div className="feature__area-image">
               <Image
                 alt=""
-                src="/img/features/feature_1.jpg"
+                src="/feature_1.jpg"
                 width={600}
                 height={600}
               />
@@ -50,7 +50,7 @@ export default function Feature() {
           <div className="col-xl-6 col-lg-6">
             <div className="feature__area-image">
               <Image
-                src="/img/features/feature_2.jpg"
+                src="/feature_2.jpg"
                 alt=""
                 width={600}
                 height={600}
@@ -62,7 +62,7 @@ export default function Feature() {
           <div className="col-xl-6 col-lg-6">
             <div className="feature__area-image">
               <Image
-                src="/img/features/feature_3.jpg"
+                src="/feature_3.jpg"
                 alt=""
                 width={600}
                 height={600}
@@ -102,7 +102,7 @@ export default function Feature() {
           <div className="col-xl-6 col-lg-6">
             <div className="feature__area-image">
               <Image
-                src="/img/features/feature_4.jpg"
+                src="/feature_4.jpg"
                 alt=""
                 width={600}
                 height={600}

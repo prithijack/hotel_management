@@ -10,7 +10,7 @@ const Blogdetails = () => {
     <>
       <SEO pageTitle='Blog Details' />
         <HeaderOne />
-        <BreadCrumb title='Blog Details' innerTitle='Blog Details' bgImage='/img/banner/page-banner-2.jpg' />
+        <BreadCrumb title='Blog Details' innerTitle='Blog Details' bgImage='/page-banner-2.jpg' />
         <Blogdetailscontainer />
         <Footer />
         <ScrollToTopButton />

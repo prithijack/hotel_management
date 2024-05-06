@@ -11,7 +11,7 @@ const Roommodern = () => {
     <>
       <SEO pageTitle="Room Modern" />
         <HeaderOne />
-        <BreadCrumb title="Room Modern" innerTitle="Room Modern" bgImage='/img/banner/page-banner-8.jpg' />
+        <BreadCrumb title="Room Modern" innerTitle="Room Modern" bgImage='/page-banner-8.jpg' />
         <div className="modern__room section-padding">
           <div className="container">
             <div className="row">

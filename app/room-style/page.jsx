@@ -15,7 +15,7 @@ const Roomstyle = () => {
     <>
       <SEO pageTitle="Room Style" />
         <HeaderOne />
-        <BreadCrumb title="Room Style" innerTitle="Room Style" bgImage="/img/banner/page-banner-9.jpg"/>
+        <BreadCrumb title="Room Style" innerTitle="Room Style" bgImage="/page-banner-9.jpg"/>
         <div className="room__area section-padding">
           <div className="container">
             <div className="row">

@@ -10,12 +10,12 @@ const Placearea = () => {
               <div className="row">
                 <div className="col-6">
                   <div className="place__area-image-one">
-                    <img src="/img/hotel/hotel-6.jpg" alt="" />
+                    <img src="/hotel-6.jpg" alt="" />
                   </div>
                 </div>
                 <div className="col-6">
                   <div className="place__area-image-two">
-                    <img src="/img/hotel/hotel-7.jpg" alt="" />
+                    <img src="/hotel-7.jpg" alt="" />
                   </div>
                 </div>
               </div>
