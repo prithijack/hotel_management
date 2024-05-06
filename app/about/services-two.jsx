@@ -1,8 +1,8 @@
 "use client";
 import Image from "next/image";
-import CarParking from "../../public/img/icon/car-parking.png";
-import Locaion1 from "../../public/img/icon/location-1.png";
-import SwimmingPool from "../../public/img/icon/swimming-pool.png";
+import CarParking from "@/public/img/icon/car-parking.png";
+import Locaion1 from "@/public/img/icon/location-1.png";
+import SwimmingPool from "@/public/img/icon/swimming-pool.png";
 
 const Servicestwo = () => {
   return (
