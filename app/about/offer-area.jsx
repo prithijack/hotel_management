@@ -22,6 +22,7 @@ const Offerarea = () => {
             <div className="col-xl-12">
               <div className="offers__area-image">
                 <Image alt="" layout="responsive" src='/offers.jpg'/>
+                {/* <Image alt="" layout="responsive" src='/offers.jpg' width={1200} height={800} /> */}
                 {/* <Image alt="" layout="responsive" src={Offers} /> */}
               </div>
             </div>

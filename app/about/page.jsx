@@ -14,7 +14,7 @@ const About = () => {
     <>
       <SEO pageTitle='About Us' />
         <HeaderOne />
-        <BreadCrumb title="About Us" innerTitle="About Us" bgImage="../..public/page-banner-1.jpg"/>
+        <BreadCrumb title="About Us" innerTitle="About Us" bgImage="/page-banner-1.jpg"/>
         <Offerarea />
         <Servicestwo />
         <Gallery />

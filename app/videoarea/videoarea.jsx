@@ -5,7 +5,7 @@ import ModalVideo from "react-modal-video";
 export default function Videoarea() {
   const [isOpen, setOpen] = useState(false);
   return (
-    <div className="video__area" style={{ backgroundImage: `url('/img/video.jpg')` }}>
+    <div className="video__area" style={{ backgroundImage: `url('/video.jpg')` }}>
       <div className="container">
         <div className="row align-items-center">
           {/* Title */}
@@ -21,7 +21,7 @@ export default function Videoarea() {
                   <ModalVideo
                     channel="youtube"
                     isOpen={isOpen}
-                    videoId="SZEflIVnhH8"
+                    videoId="nEvgwMihtQs"
                     onClose={() => setOpen(false)}
                   />
                   <span onClick={() => setOpen(true)}>

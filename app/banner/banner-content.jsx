@@ -16,7 +16,8 @@ const BannerContent = () => {
                 <ModalVideo
                   channel="youtube"
                   isOpen={isOpen}
-                  videoId="SZEflIVnhH8"
+                  videoId="nEvgwMihtQs"
+                  // videoId="SZEflIVnhH8"
                   onClose={() => setOpen(false)}
                 />
                 <span onClick={() => setOpen(true)}>
